@@ -1,0 +1,27 @@
+{
+  "name": "aca-taller02",
+  "version": "1.0.0",
+  "description": "Feature 1 CORRECCION CRITICA",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feregui00124221/ACA-taller02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feregui00124221/ACA-taller02/issues"
+  },
+  "homepage": "https://github.com/feregui00124221/ACA-taller02#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.0",
+    "@commitlint/config-conventional": "^19.8.0",
+    "commitlint-config-gitmoji": "^2.3.1",
+    "husky": "^9.1.7"
+  }
+}
